@@ -1,0 +1,17 @@
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MVOP_Had.csprojAssemblyReference.cache
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MainWindow.g.cs
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\App.g.cs
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MVOP_Had_MarkupCompile.cache
+C:\work\MVOP\MVOP_Had\MVOP_Had\bin\Debug\MVOP_Had.exe.config
+C:\work\MVOP\MVOP_Had\MVOP_Had\bin\Debug\MVOP_Had.exe
+C:\work\MVOP\MVOP_Had\MVOP_Had\bin\Debug\MVOP_Had.pdb
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MainWindow.baml
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MVOP_Had.g.resources
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MVOP_Had.Properties.Resources.resources
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MVOP_Had.csproj.GenerateResource.cache
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MVOP_Had.csproj.CoreCompileInputs.cache
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MVOP_Had.exe
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MVOP_Had.pdb
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\SecondWindow.g.cs
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\MVOP_Had_MarkupCompile.lref
+C:\work\MVOP\MVOP_Had\MVOP_Had\obj\Debug\SecondWindow.baml
