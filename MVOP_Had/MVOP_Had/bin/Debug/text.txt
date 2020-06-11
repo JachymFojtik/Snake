@@ -1,10 +1,3 @@
-15 testing
 15 Jáchym
-11 sgfdg
-11 Petr
-7 Jakub
-3 vcdbadbt
-2 cgadrh
-1 xvfdg
-1 cvbt
-0 
+14 Petr
+6 Adam
