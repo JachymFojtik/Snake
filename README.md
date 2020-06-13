@@ -1,2 +1,0 @@
-# Snake
-MVOP - závěrečná práce
