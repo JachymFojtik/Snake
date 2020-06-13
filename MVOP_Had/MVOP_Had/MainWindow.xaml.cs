@@ -63,7 +63,7 @@ namespace MVOP_Had
             Apple = new List<Prop>();
             Snake.Add(new Prop(x, y));
             Apple.Add(new Prop(rd.Next(0, 19) * 20, rd.Next(0, 19) * 20));
-            time.Interval = TimeSpan.FromMilliseconds(100);   /*you can change speed of the snake here */
+            time.Interval = TimeSpan.FromMilliseconds(100);   
             time.Tick += time_Tick;
             active = true;
             AddSnake();
